@@ -1,0 +1,115 @@
+{
+  "photos": [
+
+    {
+      "id": "p1",
+      "category": "portraits",
+      "title": "Golden Silence",
+      "location": "Kathmandu, Nepal",
+      "year": "2024",
+      "thumb": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=800&q=80&fit=crop",
+      "full":  "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=2400&q=90&fit=crop"
+    },
+    {
+      "id": "p2",
+      "category": "portraits",
+      "title": "Shadow & Light",
+      "location": "Patan, Nepal",
+      "year": "2024",
+      "thumb": "https://images.unsplash.com/photo-1488161628813-04466f872be2?w=800&q=80&fit=crop",
+      "full":  "https://images.unsplash.com/photo-1488161628813-04466f872be2?w=2400&q=90&fit=crop"
+    },
+    {
+      "id": "p3",
+      "category": "portraits",
+      "title": "Still Morning",
+      "location": "Bhaktapur, Nepal",
+      "year": "2024",
+      "thumb": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=800&q=80&fit=crop",
+      "full":  "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=2400&q=90&fit=crop"
+    },
+    {
+      "id": "p4",
+      "category": "portraits",
+      "title": "Close Presence",
+      "location": "Thamel, Kathmandu",
+      "year": "2025",
+      "thumb": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=800&q=80&fit=crop",
+      "full":  "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=2400&q=90&fit=crop"
+    },
+    {
+      "id": "p5",
+      "category": "portraits",
+      "title": "The Quiet Hour",
+      "location": "Pokhara, Nepal",
+      "year": "2025",
+      "thumb": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=800&q=80&fit=crop",
+      "full":  "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=2400&q=90&fit=crop"
+    },
+    {
+      "id": "p6",
+      "category": "portraits",
+      "title": "Amber Dusk",
+      "location": "Nagarkot, Nepal",
+      "year": "2025",
+      "thumb": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=800&q=80&fit=crop",
+      "full":  "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=2400&q=90&fit=crop"
+    },
+
+    {
+      "id": "w1",
+      "category": "wedding",
+      "title": "Forever Begins",
+      "location": "Kathmandu Valley",
+      "year": "2024",
+      "thumb": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&q=80&fit=crop",
+      "full":  "https://images.unsplash.com/photo-1519741497674-611481863552?w=2400&q=90&fit=crop"
+    },
+    {
+      "id": "w2",
+      "category": "wedding",
+      "title": "White & Gold",
+      "location": "Dhulikhel, Nepal",
+      "year": "2024",
+      "thumb": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=800&q=80&fit=crop",
+      "full":  "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=2400&q=90&fit=crop"
+    },
+    {
+      "id": "w3",
+      "category": "wedding",
+      "title": "The Ceremony",
+      "location": "Patan, Nepal",
+      "year": "2024",
+      "thumb": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800&q=80&fit=crop",
+      "full":  "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=2400&q=90&fit=crop"
+    },
+    {
+      "id": "w4",
+      "category": "wedding",
+      "title": "Hand in Hand",
+      "location": "Garden of Dreams, Kathmandu",
+      "year": "2025",
+      "thumb": "https://images.unsplash.com/photo-1606800052052-a08af7148866?w=800&q=80&fit=crop",
+      "full":  "https://images.unsplash.com/photo-1606800052052-a08af7148866?w=2400&q=90&fit=crop"
+    },
+    {
+      "id": "w5",
+      "category": "wedding",
+      "title": "Table of Joy",
+      "location": "Hyatt Regency, Kathmandu",
+      "year": "2025",
+      "thumb": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?w=800&q=80&fit=crop",
+      "full":  "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?w=2400&q=90&fit=crop"
+    },
+    {
+      "id": "w6",
+      "category": "wedding",
+      "title": "In Full Bloom",
+      "location": "Nagarkot, Nepal",
+      "year": "2025",
+      "thumb": "https://images.unsplash.com/photo-1460978812857-470ed1c77af0?w=800&q=80&fit=crop",
+      "full":  "https://images.unsplash.com/photo-1460978812857-470ed1c77af0?w=2400&q=90&fit=crop"
+    }
+
+  ]
+}
